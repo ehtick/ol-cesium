@@ -3,9 +3,9 @@
 OLCS is an opensource JS library for making [OpenLayers](https://openlayers.org/) and [CesiumJS](https://cesium.com/platform/cesiumjs/) works together, in the same application.
 It addresses several use-cases:
 
-- [Adding 3D to an existing OpenLayers map](#Adding 3D to an existing OpenLayers map)
-- [Extending CesiumJS with new capabilities](#Extending CesiumJS with new capabilities)
-- [Cherry-picking the pieces you need](#Cherry-picking the pieces you need)
+- [Adding 3D to an existing OpenLayers map](#adding-3d-to-an-existing-openlayers-map)
+- [Extending CesiumJS with new capabilities](#extending-cesiumjs-with-new-capabilities)
+- [Cherry-picking the pieces you need](#cherry-picking-the-pieces-you-need)
 
 See [live examples](https://openlayers.org/ol-cesium/examples/).
 
